@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sydne/Desktop/Computer Science Shiz/HackSMU2020/PoemReader.h
+iostream
+-
+map
+-
+iterator
+-
+vector
+-
+fstream
+-
+
+C:/Users/sydne/Desktop/Computer Science Shiz/HackSMU2020/PoemWriter.cpp
+iostream
+-
+map
+-
+iterator
+-
+vector
+-
+stdio.h
+-
+cstdlib
+-
+ctime
+-
+PoemReader.h
+C:/Users/sydne/Desktop/Computer Science Shiz/HackSMU2020/PoemReader.h
+PoemWriter.h
+C:/Users/sydne/Desktop/Computer Science Shiz/HackSMU2020/PoemWriter.h
+
+C:/Users/sydne/Desktop/Computer Science Shiz/HackSMU2020/PoemWriter.h
+iostream
+-
+map
+-
+iterator
+-
+vector
+-
+PoemReader.h
+C:/Users/sydne/Desktop/Computer Science Shiz/HackSMU2020/PoemReader.h
+
